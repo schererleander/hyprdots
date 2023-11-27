@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/user/.config/wpg/wallpapers/itsukushima_jinja.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#27191b",
+        "foreground": "#d2d9dd",
+        "cursor": "#d2d9dd"
+    },
+    "colors": {
+        "color0": "#27191b",
+        "color1": "#8AA5BB",
+        "color2": "#C9ADA3",
+        "color3": "#B09EC0",
+        "color4": "#93B2C5",
+        "color5": "#A9BBC8",
+        "color6": "#9BD0C9",
+        "color7": "#d2d9dd",
+        "color8": "#93979a",
+        "color9": "#8AA5BB",
+        "color10": "#C9ADA3",
+        "color11": "#B09EC0",
+        "color12": "#93B2C5",
+        "color13": "#A9BBC8",
+        "color14": "#9BD0C9",
+        "color15": "#d2d9dd"
+    }
+}

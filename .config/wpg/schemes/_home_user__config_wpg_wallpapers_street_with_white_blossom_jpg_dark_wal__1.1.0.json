@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/user/.config/wpg/wallpapers/street_with_white_blossom.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C0E0E",
+        "foreground": "#e0dfdc",
+        "cursor": "#e0dfdc"
+    },
+    "colors": {
+        "color0": "#0C0E0E",
+        "color1": "#698990",
+        "color2": "#91908E",
+        "color3": "#A39F9B",
+        "color4": "#B2AFAC",
+        "color5": "#C6B8B2",
+        "color6": "#C6C3BE",
+        "color7": "#e0dfdc",
+        "color8": "#9c9c9a",
+        "color9": "#698990",
+        "color10": "#91908E",
+        "color11": "#A39F9B",
+        "color12": "#B2AFAC",
+        "color13": "#C6B8B2",
+        "color14": "#C6C3BE",
+        "color15": "#e0dfdc"
+    }
+}

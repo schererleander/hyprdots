@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/user/.config/wpg/wallpapers/white_blossom_cherry.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#49383b",
+        "foreground": "#ece8e5",
+        "cursor": "#ece8e5"
+    },
+    "colors": {
+        "color0": "#49383b",
+        "color1": "#C5C0BE",
+        "color2": "#D1C6B9",
+        "color3": "#E3CCAC",
+        "color4": "#D7D1CD",
+        "color5": "#E4DCD6",
+        "color6": "#E0E0D9",
+        "color7": "#ece8e5",
+        "color8": "#a5a2a0",
+        "color9": "#C5C0BE",
+        "color10": "#D1C6B9",
+        "color11": "#E3CCAC",
+        "color12": "#D7D1CD",
+        "color13": "#E4DCD6",
+        "color14": "#E0E0D9",
+        "color15": "#ece8e5"
+    }
+}

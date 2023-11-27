@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/user/.config/wpg/wallpapers/red_bridge_near_trees.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1413",
+        "foreground": "#adbabf",
+        "cursor": "#adbabf"
+    },
+    "colors": {
+        "color0": "#0f1413",
+        "color1": "#596751",
+        "color2": "#A56155",
+        "color3": "#5F8B37",
+        "color4": "#6A8F51",
+        "color5": "#B6985C",
+        "color6": "#96A35B",
+        "color7": "#adbabf",
+        "color8": "#798285",
+        "color9": "#596751",
+        "color10": "#A56155",
+        "color11": "#5F8B37",
+        "color12": "#6A8F51",
+        "color13": "#B6985C",
+        "color14": "#96A35B",
+        "color15": "#adbabf"
+    }
+}

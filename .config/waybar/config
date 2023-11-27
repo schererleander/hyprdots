@@ -1,0 +1,17 @@
+{
+	"include": ["~/.config/waybar/modules"],
+	"layer": "top",
+	"position": "top",
+	"margin": "5 10 0 10",
+	"modules-left": [
+		"hyprland/workspaces",
+		"hyprland/window"
+	],
+	"modules-center": [
+		"custom/media"
+	],
+	"modules-right": [
+		"group/systemtray",
+		"clock"
+	],
+}	

@@ -1,0 +1,9 @@
+set adjust-open width
+set zoom-center 1
+set page-padding 0
+set pages-per-row 1
+
+set scroll-page-aware 1
+
+map j navigate previous
+map k navigate next

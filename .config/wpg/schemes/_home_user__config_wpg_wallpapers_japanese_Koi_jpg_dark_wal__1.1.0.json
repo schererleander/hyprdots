@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/user/.config/wpg/wallpapers/japanese_Koi.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#030203",
+        "foreground": "#d9d4d3",
+        "cursor": "#d9d4d3"
+    },
+    "colors": {
+        "color0": "#030203",
+        "color1": "#9B2B1F",
+        "color2": "#B14F2F",
+        "color3": "#8E7064",
+        "color4": "#998A75",
+        "color5": "#7A7D88",
+        "color6": "#A9A19D",
+        "color7": "#d9d4d3",
+        "color8": "#979493",
+        "color9": "#9B2B1F",
+        "color10": "#B14F2F",
+        "color11": "#8E7064",
+        "color12": "#998A75",
+        "color13": "#7A7D88",
+        "color14": "#A9A19D",
+        "color15": "#d9d4d3"
+    }
+}

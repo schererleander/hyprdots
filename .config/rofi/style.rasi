@@ -1,0 +1,162 @@
+@import "~/.cache/wal/colors-rofi.rasi"
+* {
+	color: @foreground;
+	background-color: transparent;
+}
+
+window {
+	border-radius: 1em;
+	border-color: @selected;
+	width: 800px;
+	height: 400px;
+}
+
+prompt {
+	spacing: 0;
+	border: 0;
+	border-radius: 8px;
+	background-color: @background-alt;
+	padding: 6px 14px;
+}
+
+textbox-prompt-colon {
+	expand: false;
+	str: "";
+	padding: 6px 4px 6px 4px;
+	text-color: @foreground;
+}
+
+entry {
+	spacing: 0;
+	expand: true;
+	horizontal-align: 0;
+	text-color: @foreground;
+	background-color: @background-alt;
+	placeholder-color: @foreground;
+	placeholder: "Search...";
+	padding: 6px 2px 6px 2px;
+	border: 0;
+	border-color: @selected;
+	border-radius: 8px;
+}
+
+case-indicator {
+	spacing: 0;
+	text-color: @foreground;
+}
+
+inputbar {
+	spacing: 0px;
+	text-color: @foreground;
+	border: 0px;
+	border-color: @selected;
+	border-radius: 0px;
+	children: [prompt, textbox-prompt-colon, entry];
+}
+
+mainbox {
+	border: 0px;
+	border-color: @selected;
+	spacing: 15px;
+	padding: 30px;
+}
+
+listview {
+	lines: 4;
+	columns: 2;
+	fixed-height: 0px;
+	border: 0px;
+	border-color: @foreground;
+	spacing: 5px;
+	scrollbar: true;
+	padding: 5px 0px 0px;
+}
+
+element-text,
+element-icon {
+	background-color: transparent;
+	text-color: inherit;
+}
+
+element {
+	border: 0px;
+	border-radius: 8px;
+	padding: 8px;
+}
+element normal.normal {
+	background-color: transparent;
+	text-color: @foreground;
+}
+element normal.urgent {
+	background-color: transparent;
+	text-color: @off;
+}
+element normal.active {
+	background-color: transparent;
+	text-color: @on;
+}
+element selected.normal {
+	background-color: @selected;
+	text-color: @foreground;
+	border: 0px;
+	border-radius: 8px;
+	border-color: @selected;
+}
+element selected.urgent {
+	background-color: @background;
+	text-color: @off;
+}
+element selected.active {
+	background-color: transparent;
+	text-color: @on;
+}
+element alternate.normal,
+element alternate.urgent,
+element alternate.active {
+	background-color: transparent;
+	text-color: @foreground;
+}
+
+sidebar {
+	border: 0px;
+	border-color: @selected;
+	border-radius: 0px;
+}
+
+button {
+	margin: 0px 10px 0px 10px;
+	horizontal-align: 0.5;
+	vertical-align: 0.5;
+	padding: 2px;
+	background-color: @background-alt;
+	text-color: @foreground;
+	border: 0px;
+	border-radius: 8px;
+	border-color: @selected;
+}
+button selected {
+	background-color: @selected;
+	text-color: @foreground;
+	border: 0px;
+	border-radius: 8px;
+	border-color: @selected;
+}
+
+scrollbar {
+	width: 4px;
+	border: 0px;
+	handle-color: @foreground;
+	handle-width: 8px;
+	padding: 0;
+}
+
+message {
+	border: 0px;
+	border-color: @selected;
+	padding: 1px;
+}
+
+textbox {
+	text-color: @foreground;
+}
+

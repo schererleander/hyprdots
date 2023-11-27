@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/user/.config/wpg/wallpapers/Nineizaka.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a2122",
+        "foreground": "#b3b8bd",
+        "cursor": "#b3b8bd"
+    },
+    "colors": {
+        "color0": "#1a2122",
+        "color1": "#5B5E57",
+        "color2": "#546A6F",
+        "color3": "#6B7377",
+        "color4": "#927361",
+        "color5": "#5C7681",
+        "color6": "#747C83",
+        "color7": "#b3b8bd",
+        "color8": "#7d8084",
+        "color9": "#5B5E57",
+        "color10": "#546A6F",
+        "color11": "#6B7377",
+        "color12": "#927361",
+        "color13": "#5C7681",
+        "color14": "#747C83",
+        "color15": "#b3b8bd"
+    }
+}

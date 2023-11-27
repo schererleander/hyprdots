@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/user/.config/wpg/wallpapers/white_sakura_with_blue_sky.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#3f3633",
+        "foreground": "#dde9e8",
+        "cursor": "#dde9e8"
+    },
+    "colors": {
+        "color0": "#3f3633",
+        "color1": "#A4DFDF",
+        "color2": "#A6E1DE",
+        "color3": "#B1E4E2",
+        "color4": "#D4D2D1",
+        "color5": "#E6D7D2",
+        "color6": "#ECE3DC",
+        "color7": "#dde9e8",
+        "color8": "#9aa3a2",
+        "color9": "#A4DFDF",
+        "color10": "#A6E1DE",
+        "color11": "#B1E4E2",
+        "color12": "#D4D2D1",
+        "color13": "#E6D7D2",
+        "color14": "#ECE3DC",
+        "color15": "#dde9e8"
+    }
+}

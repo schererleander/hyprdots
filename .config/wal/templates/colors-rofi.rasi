@@ -1,0 +1,12 @@
+* {{
+    background:         rgba({background.rgb}, 0.3);
+    background-alt:     rgb({background.rgb}, 0.1);
+    brdr:               {color0};
+    foreground:         {foreground};
+    foresel:            {color2};
+    selected:           rgba({color3.rgb}, 0.5);
+    urgent:             {color1};
+    on:                 {color4};
+    off:                {color5};
+		border: 						{color11};
+}}

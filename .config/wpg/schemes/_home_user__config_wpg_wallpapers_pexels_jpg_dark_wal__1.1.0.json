@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/user/.config/wpg/wallpapers/pexels.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0c0d",
+        "foreground": "#e7e6e6",
+        "cursor": "#e7e6e6"
+    },
+    "colors": {
+        "color0": "#0b0c0d",
+        "color1": "#A09EA1",
+        "color2": "#B3B1B3",
+        "color3": "#C0BEBF",
+        "color4": "#BFBDC0",
+        "color5": "#C1BFC0",
+        "color6": "#CFCDCE",
+        "color7": "#e7e6e6",
+        "color8": "#a1a1a1",
+        "color9": "#A09EA1",
+        "color10": "#B3B1B3",
+        "color11": "#C0BEBF",
+        "color12": "#BFBDC0",
+        "color13": "#C1BFC0",
+        "color14": "#CFCDCE",
+        "color15": "#e7e6e6"
+    }
+}

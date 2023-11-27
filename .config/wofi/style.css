@@ -1,0 +1,34 @@
+@import url("/home/user/.cache/wal/colors-css");
+
+* {
+	color: @foreground;
+	background: transparent;
+}
+
+#input {
+	border-radius: 0.75em;
+	border: 2px solid alpha(@color3, 0.3);
+	box-shadow: none;
+	background: alpha(@background, 0.8);
+}
+
+#outer-box {
+	padding: 10px;
+	border-radius: 0.75em;
+	border: 2px solid alpha(@color3, 0.3);
+	background: alpha(@background, 0.5);
+}
+
+#scroll {
+	margin-top: 10px;
+}
+
+#img {
+	margin-right: 2px;
+	-gtk-icon-transform:scale(0.6);
+}
+
+#entry:selected {
+	border-radius: 0.25em;
+	background-color: alpha(@background, 0.3);
+}

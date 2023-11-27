@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/user/.config/wpg/wallpapers/japanese_summer_tram.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#131b1b",
+        "foreground": "#c7e2f5",
+        "cursor": "#c7e2f5"
+    },
+    "colors": {
+        "color0": "#131b1b",
+        "color1": "#3968BD",
+        "color2": "#627290",
+        "color3": "#658FAC",
+        "color4": "#6798EE",
+        "color5": "#989395",
+        "color6": "#95B1E0",
+        "color7": "#c7e2f5",
+        "color8": "#8b9eab",
+        "color9": "#3968BD",
+        "color10": "#627290",
+        "color11": "#658FAC",
+        "color12": "#6798EE",
+        "color13": "#989395",
+        "color14": "#95B1E0",
+        "color15": "#c7e2f5"
+    }
+}

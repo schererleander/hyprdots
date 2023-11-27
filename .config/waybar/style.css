@@ -1,0 +1,70 @@
+@import url("/home/user/.cache/wal/colors-css");
+* {
+	background: transparent;
+	color: @foreground;
+	font-size: 1em;
+	border: none;
+	box-shadow: none;
+	min-height: 0;
+}
+
+window#waybar {
+	border: 2px solid alpha(@color11, 0.3);
+	border-radius: 0.75em;
+	background: alpha(black, 0.5);
+}
+
+tooltip {
+	background: alpha(@background, 0.9);
+	border: 2px solid alpha(@color11, 0.3);
+	border-radius: 0.75em;
+}
+
+#workspaces button {
+	padding: 0em 0em;
+	margin: 0em 0em;
+}
+
+#tray menu {
+	border-radius: 0.5em;
+	background: alpha(@background, 0.9);
+}
+
+#tray separator {
+	background: @foreground;
+}
+
+#tray menuitem:hover {
+	background: alpha(@color11, 0.5);
+}
+
+#systemtray,
+#workspaces {
+	margin: 0.5em 0;
+	background: alpha(@background, 0.3);
+	border: 2px solid alpha(@color11, 0.3);
+	border-radius: 0.75em;
+}
+
+#workspaces {
+	margin-left: 0.5em;
+}
+
+#clock {
+	margin-right: 0.5em;
+}
+
+#tray,
+#window,
+#custom-notification,
+#custom-launcher,
+#custom-updates,
+#custom-notification,
+#custom-launcher,
+#wireplumber,
+#clock,
+#backlight,
+#network,
+#battery {
+	padding: 0.25em 0.5em;
+}

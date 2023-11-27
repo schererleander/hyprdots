@@ -1,0 +1,17 @@
+configuration {
+	modes: "drun,run";
+	show-icons: true;
+	terminal: "kitty";
+	font: "Noto 12";
+	drun-display-format: "{icon} {name}";
+	disable-history: false;
+	hide-scrollbar: true;
+	display-drun: "󰘔";
+	display-run: "";
+	display-window: "";
+	display-Network: "";
+	display-filebrowser: "";
+	sidebar-mode: true;
+}
+
+@import "~/.config/rofi/style.rasi"

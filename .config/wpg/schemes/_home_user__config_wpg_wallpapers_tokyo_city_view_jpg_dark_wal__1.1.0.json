@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/user/.config/wpg/wallpapers/tokyo_city_view.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f0e12",
+        "foreground": "#b2babe",
+        "cursor": "#b2babe"
+    },
+    "colors": {
+        "color0": "#0f0e12",
+        "color1": "#5B5459",
+        "color2": "#9F6457",
+        "color3": "#C38F6F",
+        "color4": "#011E82",
+        "color5": "#002987",
+        "color6": "#0D4A86",
+        "color7": "#b2babe",
+        "color8": "#7c8285",
+        "color9": "#5B5459",
+        "color10": "#9F6457",
+        "color11": "#C38F6F",
+        "color12": "#011E82",
+        "color13": "#002987",
+        "color14": "#0D4A86",
+        "color15": "#b2babe"
+    }
+}

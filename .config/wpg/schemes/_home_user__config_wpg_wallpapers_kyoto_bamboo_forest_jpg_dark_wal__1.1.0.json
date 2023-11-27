@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/user/.config/wpg/wallpapers/kyoto_bamboo_forest.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0b03",
+        "foreground": "#c3d897",
+        "cursor": "#c3d897"
+    },
+    "colors": {
+        "color0": "#0a0b03",
+        "color1": "#4C5E26",
+        "color2": "#404634",
+        "color3": "#596751",
+        "color4": "#835F58",
+        "color5": "#5D9A13",
+        "color6": "#66A533",
+        "color7": "#c3d897",
+        "color8": "#889769",
+        "color9": "#4C5E26",
+        "color10": "#404634",
+        "color11": "#596751",
+        "color12": "#835F58",
+        "color13": "#5D9A13",
+        "color14": "#66A533",
+        "color15": "#c3d897"
+    }
+}

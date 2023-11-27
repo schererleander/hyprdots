@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/user/.config/wpg/wallpapers/railway_autumn.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0909",
+        "foreground": "#e4e3e6",
+        "cursor": "#e4e3e6"
+    },
+    "colors": {
+        "color0": "#0a0909",
+        "color1": "#CC5039",
+        "color2": "#EE5625",
+        "color3": "#F68B5D",
+        "color4": "#27758F",
+        "color5": "#3E94AC",
+        "color6": "#BFA8AA",
+        "color7": "#e4e3e6",
+        "color8": "#9f9ea1",
+        "color9": "#CC5039",
+        "color10": "#EE5625",
+        "color11": "#F68B5D",
+        "color12": "#27758F",
+        "color13": "#3E94AC",
+        "color14": "#BFA8AA",
+        "color15": "#e4e3e6"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/user/.config/wpg/wallpapers/fuji.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121312",
+        "foreground": "#cecdca",
+        "cursor": "#cecdca"
+    },
+    "colors": {
+        "color0": "#121312",
+        "color1": "#596565",
+        "color2": "#6D7370",
+        "color3": "#7D7F79",
+        "color4": "#86847B",
+        "color5": "#7B8484",
+        "color6": "#8F928F",
+        "color7": "#cecdca",
+        "color8": "#908f8d",
+        "color9": "#596565",
+        "color10": "#6D7370",
+        "color11": "#7D7F79",
+        "color12": "#86847B",
+        "color13": "#7B8484",
+        "color14": "#8F928F",
+        "color15": "#cecdca"
+    }
+}
