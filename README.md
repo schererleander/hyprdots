@@ -1,4 +1,4 @@
-# hyprland
+# hyprdots
 ![screenshot](./.assets/screenshot.png)
 
 ## Features:
