@@ -1,2 +1,2 @@
 # hyprland
-[[./.assets/screenshot.png]]
+![screenshot](./.assets/screenshot.png)
