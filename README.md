@@ -1,2 +1,2 @@
 # hyprland
-My config for hyprland
+[[./.assets/screenshot.png]]
