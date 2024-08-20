@@ -1,5 +1,5 @@
 # hyprdots
-![screenshot](./.assets/screenshot.png)
+![screenshot](screenshot.png)
 
 ## Features:
 * 🎨 dynamic theme/accent colors based on current wallpaper
